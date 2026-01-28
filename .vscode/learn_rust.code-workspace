@@ -1,0 +1,28 @@
+{
+  "folders": [
+    {
+      "name": "/",
+      "path": "../"
+    },
+    {
+      "name": "rustlings",
+      "path": "../rustlings"
+    },
+    {
+      "name": "the_rust_programming_language",
+      "path": "../the_rust_programming_language"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/target": true
+    },
+    "conventionalCommits.scopes": ["global"],
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file"
+  },
+  "extensions": {
+    "recommendations": ["rust-lang.rust-analyzer"]
+  }
+}
